@@ -35,23 +35,23 @@ I specialize in blending **modern web development** with **cutting-edge AI** to 
 
 Discover my work at the intersection of **web development** and **AI innovation**:
 
-- **[Machine-Learning-Programs](https://github.com/patelmj04/Machine-Learning-Programs)**  
+- **[Machine-Learning-Programs]//(https://github.com/patelmj04/Machine-Learning-Programs)**  
   A collection of core ML algorithms in Python/Jupyter Notebooks: Find-S, Decision Tree, KNN, Naïve Bayes, K-Means, and more.  
   *Tech*: Python, Jupyter, Scikit-learn :contentReference[oaicite:1]{index=1}
 
-- **[Neuro Insight (BrainTumor_Frontend)](https://github.com/patelmj04/BrainTumor_Frontend)**  
+- **[Neuro Insight (BrainTumor_Frontend)]//(https://github.com/patelmj04/BrainTumor_Frontend)**  
   A sleek React/Vite frontend for an AI-powered MRI brain tumor detection app.  
   *Tech*: React, Vite, Tailwind CSS :contentReference[oaicite:2]{index=2}
 
-- **[Sign_Lang_ML](https://github.com/patelmj04/Sign_Lang_ML)**  
+- **[Sign_Lang_ML]//(https://github.com/patelmj04/Sign_Lang_ML)**  
   Real-time sign language recognition system with a Flask backend.  
   *Tech*: TensorFlow, OpenCV, Flask :contentReference[oaicite:3]{index=3}
 
-- **[VADET: Video Anomaly Detection](https://github.com/patelmj04/video-anomaly-detection)**  
+- **[VADET: Video Anomaly Detection]//(https://github.com/patelmj04/video-anomaly-detection)**  
   AI-powered live video anomaly detection and event tracking system.  
   *Tech*: React, Tailwind CSS, TensorFlow :contentReference[oaicite:4]{index=4}
 
-- **[Mj_Portfolio](https://github.com/patelmj04/Mj_Portfolio)**  
+- **[Mj_Portfolio]//(https://github.com/patelmj04/Mj_Portfolio)**  
   My personal portfolio with modern design and smooth animations.  
   *Tech*: React, Tailwind CSS, Firebase, Framer Motion :contentReference[oaicite:5]{index=5}
 
@@ -63,9 +63,7 @@ My toolkit for turning ideas into reality:
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -81,18 +79,5 @@ My toolkit for turning ideas into reality:
 ### Databases & DevOps
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&slogoColor=ffcd34) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
----
-
-## 🏅 Certifications
-
-*Add your certifications here with links and badge images, e.g., AWS Certified Cloud Practitioner or Microsoft Azure Fundamentals. Example format:*
-
-```markdown
-<a href="[CERTIFICATION_LINK]" target="_blank">
-  <img src="[BADGE_IMAGE_URL]" width="100" height="100" alt="[CERTIFICATION_NAME]" />
-</a>
