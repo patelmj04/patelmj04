@@ -35,23 +35,23 @@ I specialize in blending **modern web development** with **cutting-edge AI** to 
 
 Discover my work at the intersection of **web development** and **AI innovation**:
 
-- **[Machine-Learning-Programs]**
+- **[Machine-Learning-Programs](https://github.com/patelmj04/Machine-Learning-Programs)**  
   A collection of core ML algorithms in Python/Jupyter Notebooks: Find-S, Decision Tree, KNN, Naïve Bayes, K-Means, and more.  
   *Tech*: Python, Jupyter, Scikit-learn :contentReference[oaicite:1]{index=1}
 
-- **[Neuro Insight (BrainTumor_Frontend)]**  
+- **[Neuro Insight (BrainTumor_Frontend)](https://github.com/patelmj04/BrainTumor_Frontend)**  
   A sleek React/Vite frontend for an AI-powered MRI brain tumor detection app.  
   *Tech*: React, Vite, Tailwind CSS :contentReference[oaicite:2]{index=2}
 
-- **[Sign_Lang_ML]**  
+- **[Sign_Lang_ML](https://github.com/patelmj04/Sign_Lang_ML)**  
   Real-time sign language recognition system with a Flask backend.  
   *Tech*: TensorFlow, OpenCV, Flask :contentReference[oaicite:3]{index=3}
 
-- **[VADET: Video Anomaly Detection]**  
+- **[VADET: Video Anomaly Detection](https://github.com/patelmj04/video-anomaly-detection)**  
   AI-powered live video anomaly detection and event tracking system.  
   *Tech*: React, Tailwind CSS, TensorFlow :contentReference[oaicite:4]{index=4}
 
-- **[Mj_Portfolio]**  
+- **[Mj_Portfolio](https://github.com/patelmj04/Mj_Portfolio)**  
   My personal portfolio with modern design and smooth animations.  
   *Tech*: React, Tailwind CSS, Firebase, Framer Motion :contentReference[oaicite:5]{index=5}
 
