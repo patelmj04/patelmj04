@@ -1,4 +1,4 @@
-# 👋 Welcome to Mit Patel's GitHub!
+# 👋 Welcome
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&width=435&lines=I'm+Mit+Patel;Frontend+Developer;ML+%26+AI+Enthusiast)](https://git.io/typing-svg)
 
@@ -10,19 +10,19 @@ I'm a passionate **Frontend Developer** and **Machine Learning Enthusiast** dedi
 
 I specialize in blending **modern web development** with **cutting-edge AI** to create seamless, user-friendly experiences. My expertise includes:
 
-- **Frontend**: React, Vite, Tailwind CSS, Three.js  
+- **Frontend**: React, Tailwind CSS, Html5  
 - **Backend**: Node.js, Express.js, Flask  
-- **Databases**: MongoDB, SQL  
-- **ML & AI**: TensorFlow, PyTorch, OpenCV, Hugging Face, LangChain  
-- **Tools & Cloud**: Git, Docker, AWS, Vercel, Firebase, Netlify  
+- **Databases**: Postgre SQL, SQL  
+- **ML & AI**: TensorFlow, PyTorch, OpenCV, Hugging Face  
+- **Tools & Cloud**: Git, AWS, Vercel, Firebase, Shopify  
 
 💡 **Interests**:  
 - Crafting responsive, visually stunning user interfaces.  
 - Building performant APIs and scalable backends.  
-- Exploring 3D web technologies like Three.js and WebGL.  
+- Exploring 3D web technologies.
 - Advancing AI through generative models and real-time applications.  
 
-🌱 **Currently Learning**: Advanced Three.js, GraphQL, and generative AI techniques.
+🌱 **Currently Learning**: Advanced Three.js, Backend, and generative AI techniques.
 
 🛠 **Experience**:  
 - Developed full-stack web applications for personal and collaborative projects.  
